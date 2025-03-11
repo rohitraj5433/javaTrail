@@ -4,3 +4,9 @@ class pw{
 		// codes
 	}
 }
+class pw{
+		public void main()
+	{
+		// codes2
+	}
+}
